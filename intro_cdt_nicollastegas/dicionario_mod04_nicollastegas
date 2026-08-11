@@ -1,0 +1,21 @@
+print('modulo04 - Estruturas de dados - Dicionarios \n')
+print('_' * 40 )
+cardapio_semana = {
+"segunda-feira": "arroz com feijao",
+"terça-feira": "panquecas",
+"quarta-feira": "feijoada", 
+"quinta-feira": "Strogonof",
+"sexta-feira": "lasanha",
+"sabado": "buchada",
+"domingo": "Churrasco"
+}
+nome_usuario = input('Digite seu nome para começar: ')
+dia_escolhido = input("Digite um dia da semana para saber o menu: ")
+if dia_escolhido in cardapio_semana:
+
+    comida = cardapio_semana[dia_escolhido]
+
+    print(f"n {dia_escolhido}, o dia e de comer: {comida}!")
+
+else:
+    print("desculpe, nao temos esse dia no nosso cardapio.") 
