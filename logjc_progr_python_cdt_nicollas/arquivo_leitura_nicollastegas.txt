@@ -1,0 +1,6 @@
+Nicollas Tegas;20 anos;048394-909;931841;nicollastegas@mail.com
+Anna Clara;14 anos;05799910-000;91478;annaclarasilva@mail.com
+Yasmin Silva;14 anos;087632-000;981246;yasminalves@mail.com
+Joao Vitor;15 anos;067483-000;joaovitor@mail.com
+Eric Renan; 17 anos;076534-000;ericrenan@mail.com
+Ivan Silva;40 anos;02899-000;947541;@ivanpaulino@mail.com
